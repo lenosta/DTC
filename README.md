@@ -3,7 +3,7 @@
 ## 使用
 ### 在线文档
 
-[dtc在线文档](https://wuyax.github.io/docs/)
+[dtc在线文档](https://f3f.github.io/docs/)
 
 ### 安装
 
